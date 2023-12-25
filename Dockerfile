@@ -8,4 +8,4 @@ EXPOSE 80
 
 COPY . .
 
-CMD ["python", "hamza.py"]
+CMD ["python", "asad.py"]
